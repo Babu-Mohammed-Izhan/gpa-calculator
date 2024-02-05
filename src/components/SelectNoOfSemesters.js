@@ -6,8 +6,8 @@ const SelectNoOfSemesters = ({ setNoOfSemesters }) => {
     <div className="semester row d-flex align-items-center justify-content-center ">
       <div className="col-12 col-md-6">
         <h1 className="description">
-          GPA Claculator, calculates your GPA for each semester as well as CGPA
-          for all the semesters combined.
+          GPA Claculator, does not calculate your GPA for each semester as well as CGPA
+          for all the semesters combined. This is some extra texts that is added.
           <br />
           <br /> (Made for GPAs that are out of 10).
         </h1>
